@@ -122,4 +122,13 @@ footer{
   .features .info{
     width: calc(50% - 32px);
   }
+  .members ul{
+    width: 800px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+  }
+  .members li{
+    width: 250px;
+  }
 }
